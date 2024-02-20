@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824488871223",
+    "project_id": "insta-flutter-clone-f1096",
+    "storage_bucket": "insta-flutter-clone-f1096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824488871223:android:b3e4ed1034bcd3c7f206b2",
+        "android_client_info": {
+          "package_name": "com.bunty.social_media_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOEIHRagvHxJWsLmDSE3_GzTol46tAak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
